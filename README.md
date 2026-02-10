@@ -1,0 +1,2 @@
+# .github
+vektos technologies
