@@ -1,4 +1,6 @@
-## Hi there 👋
+## Vektos Tech
+
+We build software for the future.
 
 <!--
 
